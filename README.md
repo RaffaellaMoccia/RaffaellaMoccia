@@ -4,17 +4,24 @@
 
 > Ingegnere Informatico — 23 anni, Caserta (CE)
 
-Esperienze formative in:
+*Esperienze formative in* :
+
 Modellazione e progettazione software (Analysis, Design, Architectural, Microservices e Cloud Patterns),
 Tecnologie del Web Semantico e servizi web (linguaggi WSDL, OWL, OWL-S),
 Intelligenza Artificiale Generativa
 
-Esperienze all'estero : Ex codelegata preso il Palazzo di Vetro delle Nazioni Unite (ONU)-New York, USA
+*Esperienze all'estero* : 
 
-Padronanza dei seguenti linguaggi di programmazione :  C, Java, Python, Flutter e Dart. 
+Ex codelegata preso il Palazzo di Vetro delle Nazioni Unite (ONU)-New York, USA
+
+*Padronanza dei seguenti linguaggi di programmazione* :  
+
+C, Java, Python, Flutter e Dart. 
 Versatilità nell'uso di tool ingegneristici, di sviluppo e DevOps :  MatLab, LabView, Visual Studio Code, Camunda, StarUml, Protégé, GitHub, GitLab, Supabase, AndroidStudio, Docker e VirtualBox.
 
-Coesione di competenze ingegneristiche e  multimediale con strumenti di produttività, design e content creation come Excel, Word, PPT, Overleaf, Latex, Figma e Canva, insieme ad applicazioni dedicate alla grafica e al videomaking.
+*Coesione di competenze ingegneristiche e  multimediale con strumenti di produttività, design e content creation* :
+
+Excel, Word, PPT, Overleaf, Latex, Figma e Canva, insieme ad applicazioni dedicate alla grafica e al videomaking.
 
 ## 🛠️ Tech Stack
 
@@ -23,9 +30,3 @@ Coesione di competenze ingegneristiche e  multimediale con strumenti di produtti
 ## 🌐 Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mocciaraff03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raffaella-moccia-749b99272) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaffaellaMoccia)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffaellaMoccia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaellaMoccia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
