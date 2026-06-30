@@ -1,32 +1,59 @@
-# Raffaella Moccia
+# Raffaella Moccia 👩‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaffaellaMoccia&color=brightgreen&style=flat-square&label=Profile+Views)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=238636&height=180&section=header&text=Raffaella%20Moccia&fontSize=40&fontColor=ffffff&subText=Computer%20Engineer&subFontSize=18&subFontColor=a3e635)
 
-> Ingegnere Informatico — 23 anni, Caserta (CE)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RaffaellaMoccia&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
 
-*Esperienze formative in* :
+> **Ingegnere Informatico** — 23 anni, Caserta (CE)
 
-Modellazione e progettazione software (Analysis, Design, Architectural, Microservices e Cloud Patterns),
-Tecnologie del Web Semantico e servizi web (linguaggi WSDL, OWL, OWL-S),
-Intelligenza Artificiale Generativa
+---
 
-*Esperienze all'estero* : 
+### 🧠 Esperienze Formative & Competenze Chiave
+* **Modellazione e progettazione software:** Esperienza approfondita in pattern complessi tra cui **Analysis Patterns**, **Design Patterns**, **Architectural Patterns**, **Microservices Patterns** e **Cloud Patterns**.
+* **Tecnologie del Web Semantico e Servizi Web:** Utilizzo avanzato dei linguaggi **WSDL**, **OWL** e **OWL-S**.
+* **Innovazione:** Focus e ricerca applicata nell'**Intelligenza Artificiale Generativa**.
 
-Ex codelegata preso il Palazzo di Vetro delle Nazioni Unite (ONU)-New York, USA
+### 🇺🇳 Esperienze all'Estero
+* Ex **Co-delegata** presso il **Palazzo di Vetro delle Nazioni Unite (ONU)** - New York, USA.
 
-*Padronanza dei seguenti linguaggi di programmazione* :  
+### 💻 Linguaggi di Programmazione
+* Padronanza nativa di: **C**, **Java**, **Python**, **Flutter** e **Dart**.
 
-C, Java, Python, Flutter e Dart. 
-Versatilità nell'uso di tool ingegneristici, di sviluppo e DevOps :  MatLab, LabView, Visual Studio Code, Camunda, StarUml, Protégé, GitHub, GitLab, Supabase, AndroidStudio, Docker e VirtualBox.
+### ⚙️ Strumenti Ingegneristici, Sviluppo & DevOps
+* Elevata versatilità nell'uso di: **MatLab**, **LabView**, **Visual Studio Code**, **Camunda**, **StarUML**, **Protégé**, **GitHub**, **GitLab**, **Supabase**, **Android Studio**, **Docker** e **VirtualBox**.
 
-*Coesione di competenze ingegneristiche e  multimediale con strumenti di produttività, design e content creation* :
+### 🎨 Competenze Multimediali & Produttività
+* Perfetta coesione di competenze ingegneristiche e multimediali applicate a strumenti di design, content creation e produttività: **Excel**, **Word**, **PPT**, **Overleaf**, **LaTeX**, **Figma** e **Canva**, insieme ad applicazioni dedicate alla **grafica** e al **videomaking**.
 
-Excel, Word, PPT, Overleaf, Latex, Figma e Canva, insieme ad applicazioni dedicate alla grafica e al videomaking.
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-![Lavoro in team](https://img.shields.io/badge/Lavoro%20in%20team-333?style=for-the-badge&logo=lavorointeam&logoColor=white) ![MatLab](https://img.shields.io/badge/MatLab-333?style=for-the-badge&logo=matlab&logoColor=white) ![LabView](https://img.shields.io/badge/LabView-333?style=for-the-badge&logo=labview&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-333?style=for-the-badge&logo=protégé&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-333?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Analysis, Microservices, Cloud, Design, Architectural Pattern](https://img.shields.io/badge/Analysis%2C%20Microservices%2C%20Cloud%2C%20Design%2C%20Architectural%20Pattern-333?style=for-the-badge&logo=analysis,microservices,cloud,design,architecturalpattern&logoColor=white) ![WSDL](https://img.shields.io/badge/WSDL-333?style=for-the-badge&logo=wsdl&logoColor=white) ![OWL](https://img.shields.io/badge/OWL-333?style=for-the-badge&logo=owl&logoColor=white) ![OWL-S](https://img.shields.io/badge/OWL-S-333?style=for-the-badge&logo=owl-s&logoColor=white) ![Camunda](https://img.shields.io/badge/Camunda-333?style=for-the-badge&logo=camunda&logoColor=white) ![StarUML](https://img.shields.io/badge/StarUML-333?style=for-the-badge&logo=staruml&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-333?style=for-the-badge&logo=gitlab&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-333?style=for-the-badge&logo=androidstudio&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-333?style=for-the-badge&logo=supabase&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-333?style=for-the-badge&logo=excel&logoColor=white) ![Word](https://img.shields.io/badge/Word-333?style=for-the-badge&logo=word&logoColor=white) ![Power-point](https://img.shields.io/badge/Power-point-333?style=for-the-badge&logo=power-point&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-333?style=for-the-badge&logo=latex&logoColor=white) ![OverLeaf](https://img.shields.io/badge/OverLeaf-333?style=for-the-badge&logo=overleaf&logoColor=white)
+### 🧠 Architetture, Web Semantico & DevOps
+![Patterns](https://img.shields.io/badge/Design_&_Architectural_Patterns-2E7D32?style=for-the-badge&logo=diagrams.net&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Camunda](https://img.shields.io/badge/Camunda-4CAF50?style=for-the-badge&logo=camunda&logoColor=white) ![Protégé](https://img.shields.io/badge/Protégé-1B5E20?style=for-the-badge&logo=probot&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-81C784?style=for-the-badge&logo=virtualbox&logoColor=white) ![StarUML](https://img.shields.io/badge/StarUML-388E3C?style=for-the-badge&logo=diagrams.net&logoColor=white)
+
+### 💻 Linguaggi & IDEs
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 📊 Strumenti Ingegneristici & Cloud
+![MatLab](https://img.shields.io/badge/MatLab-E16723?style=for-the-badge&logo=mathworks&logoColor=white) ![LabView](https://img.shields.io/badge/LabView-FFD200?style=for-the-badge&logo=national-instruments&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-7CB342?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🎨 Design, Scrittura & Produttività
+![Figma](https://img.shields.io/badge/Figma-C8E6C9?style=for-the-badge&logo=figma&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-A5D6A7?style=for-the-badge&logo=latex&logoColor=black) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-2E7D32?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Word-1B5E20?style=for-the-badge&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-A4C2F4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=black)
+
+---
+
+## 📊 GitHub Stats (Green Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaffaellaMoccia&show_icons=true&theme=green&hide_border=true" alt="Raffaella's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaellaMoccia&layout=compact&theme=green&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
 
 ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mocciaraff03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raffaella-moccia-749b99272) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaffaellaMoccia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mocciaraff03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raffaella-moccia-749b99272) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaffaellaMoccia)
