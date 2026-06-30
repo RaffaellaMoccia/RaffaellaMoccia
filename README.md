@@ -19,13 +19,13 @@
 * Ex **Co-delegata** presso il **Palazzo di Vetro delle Nazioni Unite (ONU)** - New York, USA.
 
 ### 💻 Linguaggi di Programmazione
-* Padronanza nativa di: **C**, **Java**, **Python**, **Flutter** e **Dart**.
+* Padronanza dei seguenti linguaggi di programmazione : **C**, **Java**, **Python**, **Flutter** e **Dart**.
 
 ### ⚙️ Strumenti Ingegneristici, Sviluppo & DevOps
-* Elevata versatilità nell'uso di: **MatLab**, **LabView**, **Visual Studio Code**, **Camunda**, **StarUML**, **Protégé**, **GitHub**, **GitLab**, **Supabase**, **Android Studio**, **Docker** e **VirtualBox**.
+* Versatilità nell'uso di: **MatLab**, **LabView**, **Visual Studio Code**, **Camunda**, **StarUML**, **Protégé**, **GitHub**, **GitLab**, **Supabase**, **Android Studio**, **Docker** e **VirtualBox**.
 
 ### 🎨 Competenze Multimediali & Produttività
-* Perfetta coesione di competenze ingegneristiche e multimediali applicate a strumenti di design, content creation e produttività: **Excel**, **Word**, **PPT**, **Overleaf**, **LaTeX**, **Figma** e **Canva**, insieme ad applicazioni dedicate alla **grafica** e al **videomaking**.
+* Coesione di competenze ingegneristiche e multimediali applicate a strumenti di design, content creation e produttività: **Excel**, **Word**, **PPT**, **Overleaf**, **LaTeX**, **Figma** e **Canva**, insieme ad applicazioni dedicate alla **grafica** e al **videomaking**.
 
 ---
 
@@ -43,17 +43,5 @@
 ### 🎨 Design, Scrittura & Produttività
 ![Figma](https://img.shields.io/badge/Figma-C8E6C9?style=for-the-badge&logo=figma&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-A5D6A7?style=for-the-badge&logo=latex&logoColor=black) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-2E7D32?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Word-1B5E20?style=for-the-badge&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-A4C2F4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=black)
 
----
-
-## 📊 GitHub Stats (Green Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaffaellaMoccia&show_icons=true&theme=green&hide_border=true" alt="Raffaella's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaellaMoccia&layout=compact&theme=green&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🌐 Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mocciaraff03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raffaella-moccia-749b99272) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaffaellaMoccia)
